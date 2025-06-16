@@ -1,0 +1,15 @@
+[submodule "codsoft_calculator"]
+	path = codsoft_calculator
+	url = https://github.com/rohithzacharias/codsoft_calculator
+[submodule "codsoft_contact_book"]
+	path = codsoft_contact_book
+	url = https://github.com/rohithzacharias/codsoft_contact_book
+[submodule "codsoft_password_generator"]
+	path = codsoft_password_generator
+	url = https://github.com/rohithzacharias/codsoft_password_generator
+[submodule "codsoft_rock_paper_scissors"]
+	path = codsoft_rock_paper_scissors
+	url = https://github.com/rohithzacharias/codsoft_rock_paper_scissors
+[submodule "codsoft_todo_list"]
+	path = codsoft_todo_list
+	url = https://github.com/rohithzacharias/codsoft_todo_list
